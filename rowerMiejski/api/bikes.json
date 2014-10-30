@@ -1,0 +1,362 @@
+[
+  {
+    "Latitude": 53.403233,
+    "Longitude": 14.500218,
+    "LocalTitle": "Stacja 34 Rondo Uniwersyteckie - Kampus US",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e8\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e4\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 8,
+    "FreeLocksCount": 4,
+    "StatusPercentageNumber": 5,
+    "StationSizeShortcut": "m"
+  },
+  {
+    "Latitude": 53.423933,
+    "Longitude": 14.530881,
+    "LocalTitle": "Stacja 32 Rondo Siwka",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e6\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e10\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 6,
+    "FreeLocksCount": 10,
+    "StatusPercentageNumber": 2,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.421288,
+    "Longitude": 14.532113,
+    "LocalTitle": "Stacja 33 ul. Ku Słońcu - Biblioteka Główna ZUT",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e11\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e5\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 11,
+    "FreeLocksCount": 5,
+    "StatusPercentageNumber": 5,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.436383,
+    "Longitude": 14.532451,
+    "LocalTitle": "Stacja 05 Sejmik - al. Boh. Warszawy",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e7\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e9\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 7,
+    "FreeLocksCount": 9,
+    "StatusPercentageNumber": 3,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.432939,
+    "Longitude": 14.532549,
+    "LocalTitle": "Stacja 07 ul. Jagiellońska - al. Boh. Warszawy",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e6\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e10\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 6,
+    "FreeLocksCount": 10,
+    "StatusPercentageNumber": 2,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.419187,
+    "Longitude": 14.533754,
+    "LocalTitle": "Stacja 30 Al. Piastów - ul. Sowińskiego",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e6\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e10\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 6,
+    "FreeLocksCount": 10,
+    "StatusPercentageNumber": 2,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.4254522222,
+    "Longitude": 14.5347730556,
+    "LocalTitle": "Stacja 31 ZUT - Pułaskiego",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e15\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e1\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 15,
+    "FreeLocksCount": 1,
+    "StatusPercentageNumber": 7,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.448918,
+    "Longitude": 14.535965,
+    "LocalTitle": "Stacja 14 ul. Niemierzyńska - Technopark",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e10\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e6\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 10,
+    "FreeLocksCount": 6,
+    "StatusPercentageNumber": 4,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.427279,
+    "Longitude": 14.537869,
+    "LocalTitle": "Stacja 19 Plac Kościuszki",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e8\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e8\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 8,
+    "FreeLocksCount": 8,
+    "StatusPercentageNumber": 4,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.433079,
+    "Longitude": 14.539506,
+    "LocalTitle": "Stacja 08 Plac Szarych Szeregów",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e2\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e14\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 2,
+    "FreeLocksCount": 14,
+    "StatusPercentageNumber": 1,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.441749,
+    "Longitude": 14.539666,
+    "LocalTitle": "Stacja 02 Jasne Błonia - ul. Piotra Skargi",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e12\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e4\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 12,
+    "FreeLocksCount": 4,
+    "StatusPercentageNumber": 6,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.42187,
+    "Longitude": 14.54085,
+    "LocalTitle": "Stacja 29 Plac Dziecka - ul. Narutowicza",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e5\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e11\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 5,
+    "FreeLocksCount": 11,
+    "StatusPercentageNumber": 2,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.437513,
+    "Longitude": 14.542409,
+    "LocalTitle": "Stacja 04 Urząd Miasta Szczecin",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e8\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e8\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 8,
+    "FreeLocksCount": 8,
+    "StatusPercentageNumber": 4,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.4350319444,
+    "Longitude": 14.542715,
+    "LocalTitle": "Stacja 06 ul. Wielkopolska - Monte Cassino",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e8\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e8\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 8,
+    "FreeLocksCount": 8,
+    "StatusPercentageNumber": 4,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.4262338889,
+    "Longitude": 14.5429391667,
+    "LocalTitle": "Stacja 20 ul. Krzywoustego - CH Kupiec",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e9\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e7\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 9,
+    "FreeLocksCount": 7,
+    "StatusPercentageNumber": 4,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.428671,
+    "Longitude": 14.544205,
+    "LocalTitle": "Stacja 18 Plac Zgody",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e3\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e13\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 3,
+    "FreeLocksCount": 13,
+    "StatusPercentageNumber": 1,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.430895,
+    "Longitude": 14.544616,
+    "LocalTitle": "Stacja 17 Deptak Bogusława",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e5\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e11\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 5,
+    "FreeLocksCount": 11,
+    "StatusPercentageNumber": 2,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.42146,
+    "Longitude": 14.545494,
+    "LocalTitle": "Stacja 28 ul. Narutowicza - ul. Potulicka",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e16\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 0,
+    "FreeLocksCount": 16,
+    "StatusPercentageNumber": 0,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.439027,
+    "Longitude": 14.547253,
+    "LocalTitle": "Stacja 03 Floating Arena",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e13\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e3\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 13,
+    "FreeLocksCount": 3,
+    "StatusPercentageNumber": 6,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.443441,
+    "Longitude": 14.547899,
+    "LocalTitle": "Stacja 01 Rondo Giedroycia",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e4\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e12\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 4,
+    "FreeLocksCount": 12,
+    "StatusPercentageNumber": 2,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.419694,
+    "Longitude": 14.548812,
+    "LocalTitle": "Stacja 27 Dworzec Główny PKP - ul. 3 Maja",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e6\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e10\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 6,
+    "FreeLocksCount": 10,
+    "StatusPercentageNumber": 2,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.433192,
+    "Longitude": 14.549145,
+    "LocalTitle": "Stacja 09 Plac Grunwaldzki",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e3\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e13\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 3,
+    "FreeLocksCount": 13,
+    "StatusPercentageNumber": 1,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.425049,
+    "Longitude": 14.551764,
+    "LocalTitle": "Stacja 21 Brama Portowa",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e1\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e15\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 1,
+    "FreeLocksCount": 15,
+    "StatusPercentageNumber": 1,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.419367,
+    "Longitude": 14.552432,
+    "LocalTitle": "Stacja 26 Dworzec Główny PKP - ul. Kolumba",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e10\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e6\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 10,
+    "FreeLocksCount": 6,
+    "StatusPercentageNumber": 4,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.428197,
+    "Longitude": 14.552898,
+    "LocalTitle": "Stacja 16 Plac Żolnierza Polskiego",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e5\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e11\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 5,
+    "FreeLocksCount": 11,
+    "StatusPercentageNumber": 2,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.4235988889,
+    "Longitude": 14.5530127778,
+    "LocalTitle": "Stacja 24 Książnica Pomorska",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e15\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e1\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 15,
+    "FreeLocksCount": 1,
+    "StatusPercentageNumber": 7,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.4210461111,
+    "Longitude": 14.5533588889,
+    "LocalTitle": "Stacja 25 Dworzec PKS",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e13\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e3\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 13,
+    "FreeLocksCount": 3,
+    "StatusPercentageNumber": 6,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.431371,
+    "Longitude": 14.554241,
+    "LocalTitle": "Stacja 10 Plac Rodła - al. Wyzwolenia",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e1\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e15\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 1,
+    "FreeLocksCount": 15,
+    "StatusPercentageNumber": 1,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.425901,
+    "Longitude": 14.555105,
+    "LocalTitle": "Stacja 22 Plac Orła Białego",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e6\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e10\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 6,
+    "FreeLocksCount": 10,
+    "StatusPercentageNumber": 2,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.431137,
+    "Longitude": 14.557292,
+    "LocalTitle": "Stacja 11 Plac Rodła - PZU Prawa",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e5\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e5\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 5,
+    "FreeLocksCount": 5,
+    "StatusPercentageNumber": 4,
+    "StationSizeShortcut": "m"
+  },
+  {
+    "Latitude": 53.431099,
+    "Longitude": 14.557464,
+    "LocalTitle": "Stacja 11 Plac Rodła - PZU Lewa",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e10\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e0\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 10,
+    "FreeLocksCount": 0,
+    "StatusPercentageNumber": 8,
+    "StationSizeShortcut": "m"
+  },
+  {
+    "Latitude": 53.42729,
+    "Longitude": 14.558461,
+    "LocalTitle": "Stacja 15 Zamek Książąt Pomorskich",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e9\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e7\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 9,
+    "FreeLocksCount": 7,
+    "StatusPercentageNumber": 4,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.422582,
+    "Longitude": 14.560011,
+    "LocalTitle": "Stacja 23 Most Długi Prawa",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e8\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e2\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 8,
+    "FreeLocksCount": 2,
+    "StatusPercentageNumber": 6,
+    "StationSizeShortcut": "m"
+  },
+  {
+    "Latitude": 53.422602,
+    "Longitude": 14.560052,
+    "LocalTitle": "Stacja 23 Most Długi Lewa",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e8\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e2\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 8,
+    "FreeLocksCount": 2,
+    "StatusPercentageNumber": 6,
+    "StationSizeShortcut": "m"
+  },
+  {
+    "Latitude": 53.431473,
+    "Longitude": 14.562515,
+    "LocalTitle": "Stacja 12 Pomnik Mickiewicza - ul. Szczerbcowa",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e8\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e8\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 8,
+    "FreeLocksCount": 8,
+    "StatusPercentageNumber": 4,
+    "StationSizeShortcut": "l"
+  },
+  {
+    "Latitude": 53.429782,
+    "Longitude": 14.564198,
+    "LocalTitle": "Stacja 13 Muzeum Narodowe - Wały Chrobrego",
+    "LocalInformation": "\u003ctable\u003e\r\n\u003ctr\u003e\u003ctd\u003eRower z łańcuchem\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e12\u003c/td\u003e\u003c/tr\u003e\r\n\u003ctr\u003e\u003ctd\u003eLicznik wolnych zamków\u003c/td\u003e\u003ctd\u003e...\u003c/td\u003e\u003ctd class=\u0027bikes-count\u0027\u003e4\u003c/td\u003e\u003c/tr\u003e\r\n\u003c/table\u003e\r\n",
+    "AvailableBikesCount": 12,
+    "FreeLocksCount": 4,
+    "StatusPercentageNumber": 6,
+    "StationSizeShortcut": "l"
+  }
+]

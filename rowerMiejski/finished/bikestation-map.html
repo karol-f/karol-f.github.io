@@ -1,0 +1,34 @@
+<link rel="import" href="../components/polymer/polymer.html">
+<link rel="import" href="../components/google-map/google-map.html">
+
+<polymer-element name="bikestation-map">
+  <template>
+    <style>
+    :host {
+      display: block;
+      width: 100%;
+    }
+    </style>
+      <google-map
+              latitude="53.4304271"
+              longitude="14.5486296"
+              minZoom="13"
+              maxZoom="17"
+              fit
+              hidden?="{{show !== 'map'}}">>
+          <template repeat="{{bike in bikes}}">
+              <google-map-marker latitude="{{bike.Latitude}}" longitude="{{bike.Longitude}}"
+                                 title="{{bike.LocalTitle}}">
+                  {{bike.LocalTitle}}
+              </google-map-marker>
+          </template>
+      </google-map>
+  </template>
+
+  <script>
+  Polymer({
+      show: null,
+      bikes: null
+  });
+  </script>
+</polymer-element>
